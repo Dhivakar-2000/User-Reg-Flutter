@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "562226108403",
+    "project_id": "user-registration-dhivakar",
+    "storage_bucket": "user-registration-dhivakar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562226108403:android:35ef9409f70df64cd9e486",
+        "android_client_info": {
+          "package_name": "com.example.user_reg_dhivakar_livintech"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEzDTVmO0A2oSyG2371gEFRludiZmDywI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
